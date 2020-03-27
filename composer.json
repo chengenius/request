@@ -1,0 +1,10 @@
+{
+	"name": "chengenius/request",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Chengenius\\Request\\": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}
